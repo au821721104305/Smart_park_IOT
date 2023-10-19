@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Arun D.",
+  "author": "MANIKANDAN E.",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-breadboard", "id": "bb1", "top": -41.4, "left": -170, "attrs": {} },
